@@ -11,6 +11,7 @@
 		A7F5B99B28AD7DFB00A98379 /* EmojiListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F5B99A28AD7DFB00A98379 /* EmojiListView.swift */; };
 		A7F5B99D28AD7E0600A98379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7F5B99C28AD7E0600A98379 /* Assets.xcassets */; };
 		A7F5B9A028AD7E0600A98379 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7F5B99F28AD7E0600A98379 /* Preview Assets.xcassets */; };
+		A7F5B9A728B04BCB00A98379 /* EmojiDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7F5B9A628B04BCB00A98379 /* EmojiDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		A7F5B99A28AD7DFB00A98379 /* EmojiListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiListView.swift; sourceTree = "<group>"; };
 		A7F5B99C28AD7E0600A98379 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7F5B99F28AD7E0600A98379 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A7F5B9A628B04BCB00A98379 /* EmojiDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				A7F5B99828AD7DFB00A98379 /* Emoji_DictionaryApp.swift */,
+				A7F5B9A628B04BCB00A98379 /* EmojiDetailView.swift */,
 				A7F5B99A28AD7DFB00A98379 /* EmojiListView.swift */,
 				A7F5B99C28AD7E0600A98379 /* Assets.xcassets */,
 				A7F5B99E28AD7E0600A98379 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7F5B99B28AD7DFB00A98379 /* EmojiListView.swift in Sources */,
+				A7F5B9A728B04BCB00A98379 /* EmojiDetailView.swift in Sources */,
 				A7F5B99928AD7DFB00A98379 /* Emoji_DictionaryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
